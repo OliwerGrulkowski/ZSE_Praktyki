@@ -26,7 +26,20 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.zadania (1)">
+  <component name="RunManager" selected="Application.zadanie2">
+    <configuration name="lekcja_statements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="first_week.statements.lekcja_statements" />
+      <module name="ZSE_Praktyki" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="first_week.statements.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="zadania (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="first_week.zadania.zadania" />
       <module name="ZSE_Praktyki" />
@@ -53,12 +66,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="zadanie2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="first_week.zadania.zadanie2" />
+      <module name="ZSE_Praktyki" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="first_week.zadania.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.zadania" />
       <item itemvalue="Application.zadania (1)" />
+      <item itemvalue="Application.lekcja_statements" />
+      <item itemvalue="Application.zadanie2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.zadanie2" />
+        <item itemvalue="Application.lekcja_statements" />
         <item itemvalue="Application.zadania (1)" />
       </list>
     </recent_temporary>
@@ -73,5 +103,16 @@
       <updated>1614080154247</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/first_week/statements/lekcja_statements.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
