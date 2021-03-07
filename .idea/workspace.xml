@@ -26,7 +26,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.pętla">
+  <component name="RunManager" selected="Application.tablice">
     <configuration name="lekcja_statements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="first_week.statements.lekcja_statements" />
       <module name="ZSE_Praktyki" />
@@ -42,6 +42,19 @@
     </configuration>
     <configuration name="pętla" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="first_week.zadania.zadanie.pętla" />
+      <module name="ZSE_Praktyki" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="first_week.zadania.zadanie.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tablice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="first_week.zadania.zadanie.tablice" />
       <module name="ZSE_Praktyki" />
       <extension name="coverage">
         <pattern>
@@ -98,9 +111,11 @@
       <item itemvalue="Application.lekcja_statements" />
       <item itemvalue="Application.zadanie2" />
       <item itemvalue="Application.pętla" />
+      <item itemvalue="Application.tablice" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.tablice" />
         <item itemvalue="Application.pętla" />
         <item itemvalue="Application.zadanie2" />
         <item itemvalue="Application.lekcja_statements" />
